@@ -1,6 +1,6 @@
 # Crash-Course-on-Python-
 
-- Here's a quick refresher on syntax and semantics. In a human language, **syntax** is the rules for how a sentence is constructed while
+-  In a human language, **syntax** is the rules for how a sentence is constructed while
 **semantics** refers to the actual meaning of the statements. 
 - In a programming language like Python, the syntax is the rules for how each instruction is written and the semantics is the effects the
 instructions have. 
