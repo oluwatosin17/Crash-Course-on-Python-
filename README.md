@@ -19,3 +19,6 @@ be more effort or cost than it's worth.
 in the right place at the right moment. It can save time, reduce errors,
 increase consistency, and provide a way to centralized solutions and
 mistakes making them easier to fix. 
+
+-Python interpreter. In programming, an interpreter is the program that reads
+and executes code. 
