@@ -22,3 +22,17 @@ mistakes making them easier to fix.
 
 - Python interpreter. In programming, an interpreter is the program that reads
 and executes code. 
+
+- Print is a Python function that writes what we tell it to on the screen. Like the statement hello
+world for example, the print function is part of
+the basic Python language, whenever we use keywords or functions that are
+part of the language, we're using the programming
+language's syntax to tell the computer what to do. 
+- So what are functions
+and keywords? *Functions* are pieces of code
+that perform a unit of work.  *Keywords* are reserved words that are used to construct
+instructions. These words are the core part of the language and can only
+be used in specific ways. Some examples include
+if, while, and for. The keywords
+and functions used in Python are what makes up
+the syntax of the language. 
