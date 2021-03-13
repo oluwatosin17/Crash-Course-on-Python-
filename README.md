@@ -1,5 +1,6 @@
 # Crash-Course-on-Python-
 
+## Week 1
 -  In a human language, **syntax** is the rules for how a sentence is constructed while
 **semantics** refers to the actual meaning of the statements. 
 - In a programming language like Python, the syntax is the rules for how each instruction is written and the semantics is the effects the
@@ -36,3 +37,34 @@ be used in specific ways. Some examples include
 if, while, and for. The keywords
 and functions used in Python are what makes up
 the syntax of the language. 
+
+## Week 2
+
+- Text written between quotes in Python is called a string. In programming terminology, a string is known as a data type,  Most programs need to
+manipulate some kind of data, and that data can come in a lot of different forums, or like we call them data types. A string is only one kind of
+data type found in Python. There's a bunch of others, like an integer which represents whole numbers without
+a fraction, like one, and float, which represents real numbers or in other words, a number with a
+fractional part like 2.5. Generally, your computer doesn't know how to mix
+different data types.
+
+- For example, adding two integers together makes perfect sense to
+computers, Adding together two
+strings also makes sense. We just end up with the longer strings that contains the two, like so, but your computer doesn't know how to add
+an integer and a string. If you tell it to mix these
+two different data types, your computer isn't
+going to know what to do and will raise an
+error.
+
+- Errors are a common
+part of programming. The trick is to think of
+errors as little clues from your computer to help you improve your programming skills. Read the errors carefully, understand what
+they're telling you, and then use that new knowledge to help you fix the mistake.  It might be helpful to
+think about data types in terms of information
+they can represent. 
+
+- For example, the name of a file would be represented as
+a string data types, while the size of that file might be an integer data type. If you're ever not 100 percent sure what data types
+a certain value is, Python gives you a
+handy way to find out. You can use the type function, to have the computer
+tell you the type. This might come in handy when dealing with
+code that someone else wrote and you're not sure what data types it's using. 
