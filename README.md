@@ -102,3 +102,16 @@ capitalization matters. Lowercase name,
 uppercase name and all caps name are all valid
 and different variable names, and that rule on
 variables is invariable.
+
+
+ **Expression Numbers and Type Conversions**
+ - Implicit Conversion :- The interpreter
+automatically converts one data type into another [Implicit conversion is where the interpreter helps us out and automatically converts one data type into another, without having to explicitly tell it to do so.]
+- Python operations aren't
+just restricted to numbers. You can also use
+the plus operator to add together strings. This lets you do
+things like create sentences from individual words. Just don't forget to add
+spaces to each words.
+- explicit conversion:  to convert between
+one data type and another [explicit conversion is where we manually convert from one data type to another by calling the relevant function for the data type we want to convert to.]
+ 
