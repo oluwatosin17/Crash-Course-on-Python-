@@ -125,4 +125,29 @@ one data type and another [explicit conversion is where we manually convert from
 - Sometimes we don't want a function to simply run and finish. We may want a function to manipulate data we passed it and then return the result to us. This is where the concept of return values comes in handy. We use the return keyword in a function, which tells the function to pass data back. When we call the function, we can store the returned value in a variable. Return values allow our functions to be more flexible and powerful, so they can be reused and called multiple times.
 
 - Functions can even return multiple values. Just don't forget to store all returned values in variables! You could also have a function return nothing, in which case the function simply exits.
+
+**Code Style**
+- First off, you want the code to be self-documenting as possible. Self-documenting code is
+written in a way that's readable and doesn't
+conceal its intent. 
+
+-  In programming lingo, when we re-write code to be
+more self-documenting, we call this process refactoring.
+
+- When good naming and clean organization can't
+make the code clear, you can add a bit of
+explanatory texts to the code. You do this by adding
+what we call a comment. In Python, comments are
+indicated by the hash character. When your computer
+sees a hash character and understands that
+it should ignore everything that comes after that character on that line.
+
+**Comparison Operators**
+- In Python, we can use comparison operators to compare values. When a comparison is made, Python returns a boolean result, or simply a True or False. 
+
+- To check if two values are the same, we can use the equality operator: == 
+- To check if two values are not the same, we can use the not equals operator: != 
+- We can also check if values are greater than or lesser than each other using > and <. If you try to compare data types that aren’t compatible, like checking if a string is greater than an integer, Python will throw a TypeError. 
+
+- We can make very complex comparisons by joining statements together using logical operators with our comparison operators. These logical operators are and, or, and not. When using the and operator, both sides of the statement being evaluated must be true for the whole statement to be true. When using the or operator, if either side of the comparison is true, then the whole statement is true. Lastly, the not operator simply inverts the value of the statement immediately following it. So if a statement evaluates to True, and we put the not operator in front of it, it would become False.
  
